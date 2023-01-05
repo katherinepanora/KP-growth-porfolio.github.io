@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:pink;  
+}
+
+.header {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.project1 , .project2 , .project3 {
+  	display:inline-block;
+    text-align:center;
+    margin:10px;
+    padding: 10px;
+}
