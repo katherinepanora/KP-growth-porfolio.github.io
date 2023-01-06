@@ -4,13 +4,27 @@ html, body {
   background-color:pink;  
 }
 
+p {
+  font-family: 'News Cycle', sans-serif;
+}
 .header {
   font-family: 'Ubuntu', sans-serif;
+  border:solid #CF9FFF;
+  border-width:4px;
+  
 }
 
 .project1 , .project2 , .project3 {
-  	display:inline-block;
-    text-align:center;
-    margin:10px;
-    padding: 10px;
+  display:inline-block;
+  text-align:center;
+  margin:10px;
+  padding: 10px;
 }
+
+.myEmail, .myLoco , .exp {
+  display:inline-block;
+  text-align:center;
+  margin:10px;
+  padding:10px;
+}
+
